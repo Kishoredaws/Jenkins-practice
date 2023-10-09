@@ -7,7 +7,7 @@ stages{
     stage ('build') {
 
     steps{
-        echo 'This is for build stage'
+        echo ' build stage'
     }
     }
     stage ('test'){
