@@ -19,7 +19,7 @@ stages{
     stage ('deploy'){
 
     steps{
-        echo 'This is deploy stage'
+        echo 'This is DEPLOYMENT stage'
     }  
     }
 }
