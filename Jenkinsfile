@@ -7,7 +7,7 @@ stages{
     stage ('build') {
 
     steps{
-        echo ' This is build stage'
+        echo ' This is build for git-hub web-hook triggers'
     }
     }
     stage ('test'){
